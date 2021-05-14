@@ -29,3 +29,5 @@ def init_archive(in_,fitness_):
 def init_gbest(curr_archiving_in,curr_archiving_fit,mesh_div,particals):
     get_g = archiving.get_gbest(curr_archiving_in,curr_archiving_fit,mesh_div,particals)
     return get_g.get_gbest()
+	
+	####ljq test upload
